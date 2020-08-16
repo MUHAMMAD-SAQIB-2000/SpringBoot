@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Login Page</title>
+</head>
+<body>
+	<h1>To Proceed, Login</h1>
+	${SPRING_SECURITY_LAST_EXCEPTION.messege}
+	<form action="/login" method="post">
+		<label>UserName:</label>
+		<input type="text" name = "username" placeholder="e.g jft%343ers@#111ds" />
+		<br>
+		<label>Password:</label>
+		<input type="password" name = "password" placeholder="your password" />
+		<br>
+		<input name="submit" value="submit" type="submit"/>
+	</form>
+</body>
+</html>

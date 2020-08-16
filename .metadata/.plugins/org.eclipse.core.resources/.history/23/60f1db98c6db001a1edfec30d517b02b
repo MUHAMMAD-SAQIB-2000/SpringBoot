@@ -1,0 +1,5 @@
+package com.webservice.project.service;
+
+public class CustomerService {
+
+}

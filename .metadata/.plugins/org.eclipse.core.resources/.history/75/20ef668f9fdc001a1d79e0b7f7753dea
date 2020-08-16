@@ -1,0 +1,36 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Record Management System</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div>
+		<ul>
+			<li><a class="active" href="#home">Home</a></li>
+			<li><a href="#news">Add Record</a></li>
+			<li><a href="#contact">See All Records</a></li>
+			<li><a href="#about">Login In</a></li>
+		</ul>
+	</div>
+
+	<div class="mainBody">
+
+		<h1 class="h">Welcome to my record management system</h1>
+		<h2 class="h">My name is Saqib</h2>
+		<div class="form">
+			<label class="title">See All Customers Record</label>
+			<button class="button button2"
+				onclick="window.location.href = 'displayAllCustomers' ">Display
+				Record</button>
+			<br> <label class="title">Add New Customer Record</label>
+			<button class="button button2"
+				onclick="window.location.href = 'addCustomerForm' ">Add
+				Record</button>
+		</div>
+	</div>
+</body>
+</html>

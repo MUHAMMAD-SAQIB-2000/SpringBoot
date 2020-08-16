@@ -1,0 +1,5 @@
+package com.webservice.project.security.user.entity;
+
+public class User {
+
+}

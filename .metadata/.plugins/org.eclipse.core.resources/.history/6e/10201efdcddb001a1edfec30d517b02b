@@ -1,0 +1,62 @@
+package com.webservice.project.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.webservice.project.entity.Customer;
+import com.webservice.project.service.CustomerService;
+
+@RestController
+public class CustomerController {
+	
+	@Autowired
+	private CustomerService customerService;
+	
+	@RequestMapping(value = {"/" , "/home" } )
+	public ModelAndView home() {
+		ModelAndView mvc = new ModelAndView();
+		mvc.setViewName("home.jsp");
+		return mvc;
+	}
+	
+	@PostMapping("/saveOne")
+	public Customer saveOneCustomer(@RequestBody Customer customer) {
+		return customerService.saveOne(customer);
+	}
+	
+	@PostMapping("/saveMany")
+	public List<Customer> saveManyCustomers(@RequestBody List<Customer> customers) {
+		return customerService.saveMany(customers);
+	}
+	
+	@GetMapping("/displayAllCustomers")
+	public List<Customer> getAllCustomers(){
+		return customerService.getAll();
+	}
+	
+	@GetMapping("/displayOneCustomer/{id}")
+	public Customer getOneCustomer(@PathVariable int id){
+		return customerService.getOne(id);
+	}
+	
+	@DeleteMapping("/deleteOneCustomerRecord")
+	public void deleteOneCustomer(@PathVariable int id) {
+		customerService.deleteOne(id);
+	}
+	
+	@PutMapping("/updateOneCustomerRecord")
+	public Customer updateOneCustomer(@RequestBody Customer customer) {
+		return customerService.updateOne(customer);
+	}
+
+}
