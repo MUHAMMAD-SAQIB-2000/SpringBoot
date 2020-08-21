@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:fragment="head">
+<meta charset="ISO-8859-1">
+<title>Coding Event</title>
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<link th:href="@{/style.css}" rel="stylesheet">
+</head>
+<body class="container">
+	<nav th:fragment="navigation" >
+		<h1 th:text="${greetings}">Hello , Spring!</h1>
+		<ul class="nav">
+			<li class="nav-item"><a class="nav-link" href="/event">View Events</a></li>
+			<li class="nav-item"><a class="nav-link" href="/create">Create Event</a></li>
+		</ul>		
+	</nav>
+
+</body>
+</html>
