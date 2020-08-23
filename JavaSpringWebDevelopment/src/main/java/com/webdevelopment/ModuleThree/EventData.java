@@ -1,14 +1,14 @@
-package com.thymeleaf.practice.data;
+package com.webdevelopment.ModuleThree;
 
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.thymeleaf.practice.model.Event;
+import com.webdevelopment.ModuleTwo.Event;
 
 public class EventData {
 	
-	private static final Map<Integer, Event> events = new HashMap<>();
+	private static final Map<Integer, Event> events = new HashMap<Integer, Event>();
 	
 	public static Collection<Event> getAll(){
 		return events.values();
@@ -18,12 +18,12 @@ public class EventData {
 		return events.get(id);
 	}
 	
-	public static void add(Event event) {
+	public static void addOne(Event event) {
 		events.put(event.getId(), event);
 	}
 	
-	public static Event del(int id) {
-		return events.remove(id);
+	public static void deleteOne(int id) {
+		events.remove(id);
 	}
-
+	
 }

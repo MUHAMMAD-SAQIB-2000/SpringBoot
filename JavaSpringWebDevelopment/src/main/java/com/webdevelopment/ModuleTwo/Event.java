@@ -1,4 +1,4 @@
-package com.thymeleaf.practice.model;
+package com.webdevelopment.ModuleTwo;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
@@ -7,7 +7,8 @@ import javax.validation.constraints.Size;
 import com.sun.istack.NotNull;
 
 public class Event {
-	private int id ;
+	
+	private int id;
 	private static int nextId = 1;
 	
 	@NotBlank
@@ -16,30 +17,24 @@ public class Event {
 	private String name;
 	
 	@Size(max = 500 , message="Description too Long!. Max character Limit 500!!!")
-	private String desc;
+	private String description;
 	
 	@Email(message="Email format not corrent or invalid email. Try Again")
 	private String contactEmail;
-	
-	public Event(String name, String desc , String  contactEmail) {
-		this.name = name;
-		this.desc = desc;
-		this.contactEmail = contactEmail;
-		this.id = nextId;
-		nextId++;
-	}
-	
 	public String getName() {
 		return name;
 	}
+
 	public void setName(String name) {
 		this.name = name;
 	}
-	public String getDesc() {
-		return desc;
+
+	public String getDescription() {
+		return description;
 	}
-	public void setDesc(String desc) {
-		this.desc = desc;
+
+	public void setDescription(String description) {
+		this.description = description;
 	}
 	
 	public int getId() {
@@ -54,11 +49,24 @@ public class Event {
 		this.contactEmail = contactEmail;
 	}
 
+	public Event() {
+	}
+	
+	public Event(String name, String description , String  contactEmail) {
+		this.name = name;
+		this.description = description;
+		this.contactEmail = contactEmail;
+		this.id = nextId;
+		nextId++;
+	}
+
 	@Override
 	public int hashCode() {
 		final int prime = 31;
 		int result = 1;
+		result = prime * result + ((description == null) ? 0 : description.hashCode());
 		result = prime * result + id;
+		result = prime * result + ((name == null) ? 0 : name.hashCode());
 		return result;
 	}
 
@@ -71,11 +79,19 @@ public class Event {
 		if (getClass() != obj.getClass())
 			return false;
 		Event other = (Event) obj;
+		if (description == null) {
+			if (other.description != null)
+				return false;
+		} else if (!description.equals(other.description))
+			return false;
 		if (id != other.id)
 			return false;
+		if (name == null) {
+			if (other.name != null)
+				return false;
+		} else if (!name.equals(other.name))
+			return false;
 		return true;
-	}	
-	
-	
+	}
 	
 }
