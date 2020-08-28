@@ -19,6 +19,7 @@ public class EventData {
 	}
 	
 	public static void addOne(Event event) {
+		//event.setId(events.size()+1);
 		events.put(event.getId(), event);
 	}
 	

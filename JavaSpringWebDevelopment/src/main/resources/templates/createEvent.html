@@ -9,17 +9,43 @@
 </head>
 <body class="container">
 	<nav th:replace="fragments :: navbar"></nav>
+	
+	<div class="space"></div>
+	<p th:text="${errorMsg}" style="color:red;">
+	
 	<form method="post" action="/createEvent">
 		  <div class="form-group">
-		    <label >Event Name</label>
-		    <input type="text" name="eventName" class="form-control" placeholder="Enter Event Name">
-		    <br>
-		    <label >Event Description</label>
-		    <input type="text" name="eventDescription" class="form-control" placeholder="Enter Event Description">
-		    <label >Contact Email</label>
-		    <input type="email" name="eventContactEmail" class="form-control" placeholder="Enter Contact Email">
+		    <label >Event Name
+		    	<input th:field="${event.name}"class="form-control" placeholder="Enter Event Name" >
+		    </label>
+		    <p class="error"  th:errors="${event.name}"></p>
+		  </div>  
+		  <div class="form-group">
+		    <label >Event Description
+		    	<input th:field="${event.description}" class="form-control" placeholder="Enter Event Description">
+		    </label>
+		    <p class="error"  th:errors="${event.description}"></p>
 		  </div>
+		  <div class="form-group"> 
+		    <label >Contact Email
+		    	<input th:field="${event.contactEmail}" class="form-control" placeholder="Enter Contact Email">
+		    </label>
+		    <p class="error"  th:errors="${event.contactEmail}"></p>
+		  </div>
+		  <div class="form-group">  
+		    <label>Event Category
+			    <select th:field="${event.eventCategory}">
+			    	<option th:each="eventCategory : ${categories}" 
+			    			th:value="${eventCategory.id}"
+			    			th:text="${eventCategory.name}">
+			    	</option>
+			    </select>
+		    </label>
+		    <p class="error"  th:errors="${event.eventCategory}"></p>
+		  </div>  
+		  <div class="form-group">
 		  <button type="submit" class="btn btn-primary">Submit</button>
+		  </div>
 	</form>
 </body>
 </html>

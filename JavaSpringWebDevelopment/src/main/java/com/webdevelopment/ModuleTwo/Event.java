@@ -1,26 +1,55 @@
 package com.webdevelopment.ModuleTwo;
 
+import javax.persistence.Entity;
+import javax.persistence.ManyToOne;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
-import com.sun.istack.NotNull;
+import com.webdevelopment.ModuleFive.AbstractEntity;
+import com.webdevelopment.ModuleFive.EventCategory;
+import com.webdevelopment.ModuleFour.EventType;
 
-public class Event {
+@SuppressWarnings("unused")
+@Entity
+public class Event extends AbstractEntity{
 	
-	private int id;
-	private static int nextId = 1;
-	
-	@NotBlank
-	@NotNull
+	@NotBlank(message="Name Is Required")
 	@Size(min = 3 , max = 50 , message="Name should be between 3 and 50 Characters")
 	private String name;
 	
 	@Size(max = 500 , message="Description too Long!. Max character Limit 500!!!")
 	private String description;
 	
+	@NotBlank(message="Email must be entered")
 	@Email(message="Email format not corrent or invalid email. Try Again")
 	private String contactEmail;
+	
+	@ManyToOne
+	@NotNull(message="It can not be empty")
+	private EventCategory eventCategory;
+	
+	public Event(
+			@NotBlank(message = "Name Is Required") @Size(min = 3, max = 50, message = "Name should be between 3 and 50 Characters") String name,
+			@Size(max = 500, message = "Description too Long!. Max character Limit 500!!!") String description,
+			@NotBlank(message = "Email must be entered") @Email(message = "Email format not corrent or invalid email. Try Again") String contactEmail,
+			EventCategory eventCategory) {
+		this.name = name;
+		this.description = description;
+		this.contactEmail = contactEmail;
+		this.eventCategory = eventCategory;
+	}
+	public Event() {}
+	
+	public EventCategory getEventCategory() {
+		return eventCategory;
+	}
+
+	public void setEventCategory(EventCategory eventCategory) {
+		this.eventCategory = eventCategory;
+	}
+
 	public String getName() {
 		return name;
 	}
@@ -37,10 +66,6 @@ public class Event {
 		this.description = description;
 	}
 	
-	public int getId() {
-		return id;
-	}
-
 	public String getContactEmail() {
 		return contactEmail;
 	}
@@ -49,49 +74,36 @@ public class Event {
 		this.contactEmail = contactEmail;
 	}
 
-	public Event() {
-	}
 	
-	public Event(String name, String description , String  contactEmail) {
+	
+
+	
+}
+/**
+ * 			private EventType type;
+		public Event(@NotBlank(message = "Name Is Required") @Size(min = 3, max = 50, message = "Name should be between 3 and 50 Characters") String name,
+			@Size(max = 500, message = "Description too Long!. Max character Limit 500!!!") String description,
+			@NotBlank(message = "Email must be entered") @Email(message = "Email format not corrent or invalid email. Try Again") String contactEmail,
+			EventType type) {
 		this.name = name;
 		this.description = description;
 		this.contactEmail = contactEmail;
-		this.id = nextId;
-		nextId++;
-	}
-
-	@Override
-	public int hashCode() {
-		final int prime = 31;
-		int result = 1;
-		result = prime * result + ((description == null) ? 0 : description.hashCode());
-		result = prime * result + id;
-		result = prime * result + ((name == null) ? 0 : name.hashCode());
-		return result;
-	}
-
-	@Override
-	public boolean equals(Object obj) {
-		if (this == obj)
-			return true;
-		if (obj == null)
-			return false;
-		if (getClass() != obj.getClass())
-			return false;
-		Event other = (Event) obj;
-		if (description == null) {
-			if (other.description != null)
-				return false;
-		} else if (!description.equals(other.description))
-			return false;
-		if (id != other.id)
-			return false;
-		if (name == null) {
-			if (other.name != null)
-				return false;
-		} else if (!name.equals(other.name))
-			return false;
-		return true;
+		this.type = type;
 	}
 	
-}
+	public Event() {}
+	
+	public EventType getType() {
+		return type;
+	}
+
+	public void setType(EventType type) {
+		this.type = type;
+	}
+		
+		@Override
+	public String toString() {
+		return "Event [name=" + name + ", description=" + description + ", contactEmail=" + contactEmail + ", type="
+				+ type + "]";
+	}
+ */

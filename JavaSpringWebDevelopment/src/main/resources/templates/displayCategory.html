@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Display Category</title>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<script	src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<link th:href="@{/style.css}" rel="stylesheet">
+</head>
+<body class="container">
+	<nav th:replace="fragments :: navbar"></nav>
+	<div class="space"></div>
+	<table class=" table table-striped">
+		<thead>
+			<tr>
+				<th>Category</th>
+			</tr>
+		</thead>
+		<tr th:each=" category : ${categories}">
+			<td><a th:href="'/displayEvent?categoryId='+ ${category.id}" th:text="${category.name}"></a></td>
+		</tr>
+	</table>		
+</body>
+</html>

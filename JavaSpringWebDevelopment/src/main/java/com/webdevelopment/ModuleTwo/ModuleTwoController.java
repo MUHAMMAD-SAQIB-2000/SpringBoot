@@ -24,10 +24,7 @@ public class ModuleTwoController {
 		return "home";
 	}
 	
-	@GetMapping("/createEvent")
-	public String renderCreateEvent() {
-		return "createEvent";
-	}
+	
 	/**
 		@PostMapping("/createEvent")
 		public ModelAndView createEvent(@RequestParam String eventName , @RequestParam String eventDescription) {
