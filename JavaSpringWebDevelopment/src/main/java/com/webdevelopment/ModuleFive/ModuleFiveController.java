@@ -43,7 +43,7 @@ public class ModuleFiveController {
 	}
 
 	@PostMapping("/createEvent")
-	public String displayCreateEvent(@ModelAttribute @Valid Event newEvent, BindingResult bindingResult , Model model) {
+	public String createEventFormDisplay(@ModelAttribute @Valid Event newEvent, BindingResult bindingResult , Model model) {
 		if(bindingResult.hasErrors()) {
 			model.addAttribute("errorMsg", "Data Not Correctly Inputted");
 			return "redirect:createEvent";

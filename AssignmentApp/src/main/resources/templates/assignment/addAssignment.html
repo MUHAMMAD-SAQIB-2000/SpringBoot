@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Add assignment</title>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<script	src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<link th:href="@{/style.css}" rel="stylesheet">
+</head>
+<body class="container">
+	<p th:text="${errorMsg}" style="color:red;">
+	
+	<h3 style="color:rgb(56, 188, 199);">WelCome, Please Select your Course and provide us necessary details</h3>
+	
+	<div th:replace="fragments :: navbar">	</div>
+	
+	<form method="post" action="/addAssignment" th:object="${assignment}">
+		  <div class="form-group">
+		    <label>Assignment Name
+		    	<input th:field="${assignment.assignmentName}"class="form-control" placeholder="Student Enter Your Assignment Name" >
+		    </label>
+		    <p class="error"  th:errors="${assignment.assignmentName}"></p>
+		  </div>  
+		  <div class="form-group">
+		    <label>Assignment Start Date
+		    	<input type="date" th:field="${assignment.assignmentStartDate}" class="form-control">
+		    </label>
+		    <p class="error"  th:errors="${assignment.assignmentStartDate}"></p>
+		  </div>
+		  <div class="form-group">
+		    <label>Assignment End Date
+		    	<input type="date" th:field="${assignment.assignmentEndDate}" class="form-control">
+		    </label>
+		    <p class="error"  th:errors="${assignment.assignmentEndDate}"></p>
+		  </div>
+		  <div class="form-group">  
+		    <label>Student Course
+			    <select th:field="${assignment.courses}">
+			    	<option th:each="course : ${courses}" 
+			    			th:value="${course.Id}"
+			    			th:text="${course.courseDetails}">
+			    	</option>
+			    </select>
+		    </label>
+		    <p class="error"  th:errors="${assignment.courses}"></p>
+		  </div>
+		  <div class="form-group">
+		  		<button type="submit" class="btn btn-primary">Submit</button>
+		  </div>
+	</form>
+</body>
+</html>

@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+body{
+	margin:0px;
+	padding:0px;
+}
+.navbar{
+	display: inline-block;
+}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Add Student</title>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<script	src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<link th:href="@{/style.css}" rel="stylesheet">
+</head>
+<body class="container">
+	<p th:text="${errorMsg}" style="color:red;">
+	
+	<h3 style="color:rgb(56, 188, 199);">WelCome, Please Select your Course and provide us necessary details</h3>
+	
+	<div th:replace="fragments :: navbar">	</div>
+	
+	<form method="post" action="/addStudent" th:object="${student}">
+		  <div class="form-group">
+		    <label >Student Name
+		    	<input th:field="${student.studentName}"class="form-control" placeholder="Student Enter Your Name" >
+		    </label>
+		    <p class="error"  th:errors="${student.studentName}"></p>
+		  </div>  
+		  <div class="form-group">
+		    <label >Student RollNumber
+		    	<input th:field="${student.studentRollNumber}" class="form-control" placeholder="Student Enter Your RollNumber">
+		    </label>
+		    <p class="error"  th:errors="${student.studentRollNumber}"></p>
+		  </div>
+		  <div class="form-group">
+		    <label >Student Semester
+		    	<select th:field="${student.studentSemester}" class="form-control">
+		    		<option value="">Select Semester</option>
+		    		<option disabled="disabled" th:value="studentSemester">----------------------</option>
+		    		<option th:value="Semester-I">Semester-I</option>
+		    		<option th:value="Semester-II">Semester-II</option>
+		    		<option th:value="Semester-III">Semester-III</option>
+		    		<option th:value="Semester-IV">Semester-IV</option>
+		    		<option th:value="Semester-V">Semester-V</option>
+		    		<option th:value="Semester-VI">Semester-VI</option>
+		    		<option th:value="Semester-VII">Semester-VII</option>
+		    		<option th:value="Semester-VIII">Semester-VIII</option>
+		    	</select>
+		    </label>
+		    <p class="error"  th:errors="${student.studentRollNumber}"></p>
+		  </div>
+		  <div class="form-group">  
+		    <label>Student Course
+			    <select th:field="${student.studentCourse}">
+			    	<option th:each="studentCourse : ${courses}" 
+			    			th:value="${studentCourse.Id}"
+			    			th:text="${studentCourse.courseDetails}">
+			    	</option>
+			    </select>
+		    </label>
+		    <p class="error"  th:errors="${student.studentCourse}"></p>
+		  </div>
+		  <div class="form-group">  
+		    <label>Student Assignments
+			    <select th:field="${student.studentAssignment}">
+			    	<option th:each="assignment : ${assignments}" 
+			    			th:value="${assignment.Id}"
+			    			th:text="${assignment.assignmentName}">
+			    	</option>
+			    </select>
+		    </label>
+		    <p class="error"  th:errors="${student.studentAssignment}"></p>
+		  </div>
+		  <div class="form-group">
+		  		<button type="submit" class="btn btn-primary">Submit</button>
+		  </div>
+	</form>
+</body>
+</html>
