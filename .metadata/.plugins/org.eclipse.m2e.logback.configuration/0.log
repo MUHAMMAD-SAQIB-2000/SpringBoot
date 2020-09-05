@@ -19461,3 +19461,1111 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:b
 2020-09-02 13:24:38,661 [Worker-31: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
 2020-09-02 13:24:38,661 [Worker-31: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
 2020-09-02 13:24:38,661 [Worker-31: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 15:56:17,454 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-02 16:02:32,298 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:02:39,615 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:02:39,624 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 16:02:39,652 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 16:02:39,661 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:02:39,662 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 16:07:30,727 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:07:30,765 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 16:07:30,820 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 16:07:30,820 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 16:07:30,821 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 16:07:30,821 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 16:07:30,821 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 16:07:30,822 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 16:07:30,822 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 16:07:30,823 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 16:11:17,545 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:11:17,638 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:11:17,700 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 16:11:17,710 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 16:11:17,718 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:11:17,719 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 16:11:28,340 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:11:28,347 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 16:11:28,347 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 16:11:28,348 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 16:11:28,349 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 16:11:28,350 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 16:11:28,351 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 16:11:28,353 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 16:11:28,354 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 16:11:28,355 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 16:11:28,384 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:11:28,399 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 16:11:28,423 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 16:11:28,444 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:11:28,447 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 16:11:38,494 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:11:38,496 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 16:11:38,497 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 16:11:38,498 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 16:11:38,498 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 16:11:38,498 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 16:11:38,499 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 16:11:38,499 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 16:11:38,499 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 16:11:38,499 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 16:11:38,517 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:11:38,526 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 16:11:38,539 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 16:11:38,548 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:11:38,548 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 16:11:40,404 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:11:40,406 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 16:11:40,406 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 16:11:40,407 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 16:11:40,407 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 16:11:40,407 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 16:11:40,407 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 16:11:40,408 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 16:11:40,408 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 16:11:40,408 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 16:13:57,067 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:13:57,079 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:13:57,086 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 16:13:57,096 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 16:13:57,102 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:13:57,103 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 16:14:25,903 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:14:25,905 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 16:14:25,905 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 16:14:25,906 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 16:14:25,906 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 16:14:25,906 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 16:14:25,907 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 16:14:25,907 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 16:14:25,907 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 16:14:25,908 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 16:14:25,923 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:14:25,930 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 16:14:25,940 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 16:14:25,949 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:14:25,949 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 16:14:27,018 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:14:27,019 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 16:14:27,020 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 16:14:27,020 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 16:14:27,020 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 16:14:27,020 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 16:14:27,021 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 16:14:27,021 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 16:14:27,021 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 16:14:27,021 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 16:14:46,519 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:14:46,552 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:14:46,560 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 16:14:46,582 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 16:14:46,595 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:14:46,596 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 16:14:47,713 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:14:47,714 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 16:14:47,714 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 16:14:47,714 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 16:14:47,715 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 16:14:47,715 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 16:14:47,715 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 16:14:47,716 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 16:14:47,716 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 16:14:47,716 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 16:15:08,904 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:15:08,915 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:15:08,925 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 16:15:08,935 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 16:15:08,948 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:15:08,948 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 16:16:17,805 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 16:16:17,806 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 16:16:17,806 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 16:16:17,806 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 16:16:17,807 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 16:16:17,807 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 16:16:17,807 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 16:16:17,808 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 16:16:17,808 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 16:16:17,808 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 19:27:13,720 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-02 19:30:03,946 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:30:21,545 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:30:21,578 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 19:30:21,677 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 19:30:22,095 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:30:22,095 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 19:30:31,301 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:30:31,322 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 19:30:31,333 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 19:30:31,334 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 19:30:31,334 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 19:30:31,334 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 19:30:31,335 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 19:30:31,335 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 19:30:31,336 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 19:30:31,337 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 19:32:21,190 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:32:28,057 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uog.assignment:AssignmentApp:0.0.1-SNAPSHOT @ C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\pom.xml.
+2020-09-02 19:32:29,868 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.pom
+2020-09-02 19:32:30,356 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.pom
+2020-09-02 19:32:31,775 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.jar
+2020-09-02 19:32:33,188 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.jar
+2020-09-02 19:32:35,004 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:32:35,009 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 19:32:35,009 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 19:32:35,013 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:32:35,014 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 19:32:38,029 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE-sources.jar
+2020-09-02 19:32:39,862 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE-sources.jar
+2020-09-02 19:32:40,273 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:32:40,277 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 19:32:40,286 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:5.3.4.RELEASE
+2020-09-02 19:32:41,881 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:32:43,150 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uog.assignment:AssignmentApp:0.0.1-SNAPSHOT @ C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\pom.xml.
+2020-09-02 19:32:45,875 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:32:45,889 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 19:32:45,916 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 19:32:46,594 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:32:46,594 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 19:32:46,904 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:32:46,905 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 19:32:46,906 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 19:32:46,906 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 19:32:46,907 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 19:32:46,907 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 19:32:46,909 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 19:32:46,909 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 19:32:46,910 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 19:32:46,910 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 19:52:08,277 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:52:11,873 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uog.assignment:AssignmentApp:0.0.1-SNAPSHOT @ C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\pom.xml.
+2020-09-02 19:52:13,383 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.3.3.RELEASE/spring-boot-starter-security-2.3.3.RELEASE.pom
+2020-09-02 19:52:13,792 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.3.3.RELEASE/spring-boot-starter-security-2.3.3.RELEASE.pom
+2020-09-02 19:52:14,141 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.pom
+2020-09-02 19:52:14,551 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.pom
+2020-09-02 19:52:14,855 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.3.4.RELEASE/spring-security-web-5.3.4.RELEASE.pom
+2020-09-02 19:52:15,090 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.3.4.RELEASE/spring-security-web-5.3.4.RELEASE.pom
+2020-09-02 19:52:16,178 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.3.4.RELEASE/spring-security-web-5.3.4.RELEASE.jar
+2020-09-02 19:52:16,547 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar
+2020-09-02 19:52:16,547 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.3.3.RELEASE/spring-boot-starter-security-2.3.3.RELEASE.jar
+2020-09-02 19:52:17,017 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.3.3.RELEASE/spring-boot-starter-security-2.3.3.RELEASE.jar
+2020-09-02 19:52:17,540 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.3.4.RELEASE/spring-security-web-5.3.4.RELEASE.jar
+2020-09-02 19:52:17,711 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar
+2020-09-02 19:52:20,744 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:52:20,763 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 19:52:20,809 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 19:52:20,819 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:52:20,820 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 19:52:23,361 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.3.3.RELEASE/spring-boot-starter-security-2.3.3.RELEASE-sources.jar
+2020-09-02 19:52:23,944 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.3.3.RELEASE/spring-boot-starter-security-2.3.3.RELEASE-sources.jar
+2020-09-02 19:52:24,172 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:52:24,200 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 19:52:24,297 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:52:24,305 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 19:52:24,401 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 19:52:24,693 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:2.3.3.RELEASE
+2020-09-02 19:52:25,532 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:52:25,532 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 19:52:25,656 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE-sources.jar
+2020-09-02 19:52:27,355 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE-sources.jar
+2020-09-02 19:52:27,647 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:5.3.4.RELEASE
+2020-09-02 19:52:28,626 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.3.4.RELEASE/spring-security-web-5.3.4.RELEASE-sources.jar
+2020-09-02 19:52:29,991 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.3.4.RELEASE/spring-security-web-5.3.4.RELEASE-sources.jar
+2020-09-02 19:52:30,288 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:5.3.4.RELEASE
+2020-09-02 19:52:31,813 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:52:31,826 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:52:31,854 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 19:52:31,870 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 19:52:31,980 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:52:31,980 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 19:52:33,198 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:52:33,200 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 19:52:33,203 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 19:52:33,203 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 19:52:33,204 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 19:52:33,204 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 19:52:33,205 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 19:52:33,205 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 19:52:33,205 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 19:52:33,206 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 19:58:55,693 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:58:55,712 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:58:55,721 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 19:58:55,735 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 19:58:55,744 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 19:58:55,744 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 19:58:56,792 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 19:58:56,793 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 19:58:56,793 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 19:58:56,794 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 19:58:56,794 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 19:58:56,794 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 19:58:56,795 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 19:58:56,795 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 19:58:56,796 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 19:58:56,796 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 20:00:49,535 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:00:49,546 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:00:49,553 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 20:00:49,574 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 20:00:49,581 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:00:49,582 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:00:59,751 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: incremental
+2020-09-02 20:00:59,752 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:00:59,753 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 20:00:59,753 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 20:00:59,753 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 20:00:59,754 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 20:00:59,754 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 20:00:59,755 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 20:00:59,756 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 20:00:59,757 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 20:17:08,518 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:17:09,541 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:17:09,554 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 20:17:09,577 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 20:17:09,591 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:17:09,592 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:17:27,105 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:17:27,107 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:17:27,318 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 20:17:27,318 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 20:17:27,318 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 20:17:27,319 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 20:17:27,319 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 20:17:27,319 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 20:17:27,319 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 20:17:27,320 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 20:17:44,541 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:17:50,731 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uog.assignment:AssignmentApp:0.0.1-SNAPSHOT @ C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\pom.xml.
+2020-09-02 20:17:56,404 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:17:56,409 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 20:17:56,409 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 20:17:56,412 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:17:56,413 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:18:01,007 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:18:01,010 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:18:02,540 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:18:02,546 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 20:18:02,609 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 20:18:03,495 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:18:03,496 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:20:50,272 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:20:50,273 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:20:50,274 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 20:20:50,275 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 20:20:50,275 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 20:20:50,275 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 20:20:50,275 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 20:20:50,275 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 20:20:50,276 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 20:20:50,276 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 20:21:39,867 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:21:39,889 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:21:39,896 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 20:21:39,922 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 20:21:39,930 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:21:39,931 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:21:50,103 [Worker-23: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: incremental
+2020-09-02 20:21:50,104 [Worker-23: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:21:50,105 [Worker-23: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 20:21:50,106 [Worker-23: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 20:21:50,106 [Worker-23: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 20:21:50,106 [Worker-23: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 20:21:50,106 [Worker-23: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 20:21:50,106 [Worker-23: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 20:21:50,107 [Worker-23: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 20:21:50,107 [Worker-23: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 20:26:40,445 [Worker-25: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:26:40,469 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:26:40,476 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 20:26:40,504 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 20:26:40,512 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:26:40,512 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:26:49,051 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:26:49,052 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:26:49,052 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 20:26:49,053 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 20:26:49,053 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 20:26:49,054 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 20:26:49,054 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 20:26:49,054 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 20:26:49,055 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 20:26:49,055 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 20:26:54,259 [Worker-25: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:26:54,267 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:26:54,280 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 20:26:54,305 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 20:26:54,312 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:26:54,313 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:27:10,505 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:27:10,507 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:27:10,507 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 20:27:10,508 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 20:27:10,508 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 20:27:10,508 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 20:27:10,509 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 20:27:10,509 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 20:27:10,509 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 20:27:10,509 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 20:27:50,720 [Worker-25: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:27:50,728 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:27:50,735 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 20:27:50,751 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 20:27:50,757 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:27:50,757 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:29:19,426 [Worker-25: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: incremental
+2020-09-02 20:29:19,427 [Worker-25: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:29:19,428 [Worker-25: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 20:29:19,429 [Worker-25: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 20:29:19,429 [Worker-25: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 20:29:19,429 [Worker-25: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 20:29:19,430 [Worker-25: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 20:29:19,430 [Worker-25: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 20:29:19,430 [Worker-25: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 20:29:19,430 [Worker-25: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 20:30:52,918 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:30:52,928 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:30:52,934 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 20:30:52,942 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 20:30:52,947 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:30:52,948 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:31:05,967 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:31:05,968 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:31:05,968 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 20:31:05,968 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 20:31:05,969 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 20:31:05,969 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 20:31:05,969 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 20:31:05,970 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 20:31:05,970 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 20:31:05,970 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 20:31:07,058 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:31:07,068 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:31:07,075 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 20:31:07,086 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 20:31:07,097 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:31:07,098 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:31:28,177 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:31:28,178 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:31:28,179 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 20:31:28,179 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 20:31:28,179 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 20:31:28,179 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 20:31:28,179 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 20:31:28,179 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 20:31:28,180 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 20:31:28,180 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-02 20:31:32,490 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:31:32,497 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:31:32,504 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 20:31:32,515 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-02 20:31:32,522 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 20:31:32,522 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-02 20:31:40,654 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-02 20:31:40,655 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-02 20:31:40,655 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-02 20:31:40,656 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-02 20:31:40,656 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-02 20:31:40,656 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-02 20:31:40,657 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-02 20:31:40,657 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-02 20:31:40,657 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-02 20:31:40,657 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-03 16:12:51,319 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-03 16:15:09,626 [Worker-5: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: full
+2020-09-03 16:15:09,717 [Worker-5: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Checking project: AssignmentApp
+2020-09-03 16:15:17,629 [Worker-5: Launching AssignmentApp - AssignmentAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:15:17,645 [Worker-5: Launching AssignmentApp - AssignmentAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-03 16:15:17,709 [Worker-5: Launching AssignmentApp - AssignmentAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-03 16:15:18,453 [Worker-5: Launching AssignmentApp - AssignmentAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:15:18,453 [Worker-5: Launching AssignmentApp - AssignmentAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-03 16:15:23,069 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:15:23,173 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-03 16:15:23,173 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-03 16:15:23,173 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-03 16:15:23,173 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-03 16:15:23,173 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-03 16:15:23,173 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-03 16:15:23,173 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-03 16:15:23,173 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-03 16:15:23,173 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-03 16:45:32,842 [Worker-7: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:45:33,326 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:45:33,358 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-03 16:45:33,404 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-03 16:45:33,404 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:45:33,404 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-03 16:47:12,245 [Worker-1: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: incremental
+2020-09-03 16:47:12,260 [Worker-1: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-03 16:47:12,260 [Worker-1: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-03 16:47:12,260 [Worker-1: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-03 16:47:12,260 [Worker-1: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-03 16:47:12,260 [Worker-1: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-03 16:47:12,260 [Worker-1: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-03 16:47:12,260 [Worker-1: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-03 16:47:12,260 [Worker-1: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-03 16:47:12,260 [Worker-1: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-03 16:48:05,744 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:48:05,775 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:48:05,775 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-03 16:48:05,884 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-03 16:48:05,884 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:48:05,884 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-03 16:48:08,275 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: incremental
+2020-09-03 16:48:08,275 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-03 16:48:08,275 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-03 16:48:08,275 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-03 16:48:08,275 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-03 16:48:08,275 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-03 16:48:08,275 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-03 16:48:08,275 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-03 16:48:08,275 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-03 16:48:08,275 [Worker-15: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-03 16:50:26,607 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:50:26,622 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:50:26,622 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-03 16:50:26,638 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-03 16:50:26,638 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:50:26,638 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-03 16:50:32,825 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:50:32,825 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-03 16:50:32,841 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-03 16:50:32,841 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-03 16:50:32,841 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-03 16:50:32,841 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-03 16:50:32,841 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-03 16:50:32,841 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-03 16:50:32,841 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-03 16:50:32,841 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-03 16:52:00,447 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:52:00,463 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:52:00,478 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-03 16:52:00,478 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-03 16:52:00,494 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:52:00,494 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-03 16:52:35,302 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:52:35,302 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-03 16:52:35,302 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-03 16:52:35,302 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-03 16:52:35,302 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-03 16:52:35,302 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-03 16:52:35,302 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-03 16:52:35,302 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-03 16:52:35,302 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-03 16:52:35,302 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-03 16:54:45,565 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:54:45,565 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:54:45,581 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-03 16:54:45,659 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-03 16:54:45,659 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:54:45,659 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-03 16:54:46,722 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:54:46,722 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-03 16:54:46,737 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-03 16:54:46,737 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-03 16:54:46,737 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-03 16:54:46,737 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-03 16:54:46,737 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-03 16:54:46,737 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-03 16:54:46,737 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-03 16:54:46,737 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-03 16:58:45,624 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:58:45,640 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:58:45,655 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-03 16:58:45,671 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-03 16:58:45,687 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 16:58:45,687 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-03 16:58:47,905 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-03 16:58:47,905 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-03 16:58:47,921 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-03 16:58:47,921 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-03 16:58:47,921 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-03 16:58:47,921 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-03 16:58:47,921 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-03 16:58:47,921 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-03 16:58:47,921 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-03 16:58:47,921 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-03 21:08:28,029 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-03 22:19:02,066 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-04 12:33:37,263 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-04 12:41:11,612 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: full
+2020-09-04 12:41:11,725 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Checking project: AssignmentApp
+2020-09-04 12:41:44,715 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:41:44,737 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 12:41:44,895 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 12:41:45,803 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:41:45,804 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 12:41:59,029 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:41:59,030 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 12:41:59,141 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-04 12:41:59,151 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:41:59,151 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\FinalPaper19011519-027\src\test\resources
+2020-09-04 12:42:08,746 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:42:08,747 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 12:42:08,793 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2020-09-04 12:42:09,064 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:42:09,065 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\JavaSpringWebDevelopment\src\test\resources
+2020-09-04 12:42:24,712 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:42:24,713 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 12:42:24,751 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-04 12:42:24,761 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:42:24,761 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\SpringSecurityJava\src\test\resources
+2020-09-04 12:42:25,228 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 12:42:25,456 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 12:42:25,459 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 12:42:25,459 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 12:42:25,459 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 12:42:25,460 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 12:42:25,460 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 12:42:25,461 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 12:42:25,461 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 12:42:25,461 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 12:42:32,620 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:42:32,620 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 12:42:32,633 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-04 12:42:32,636 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:42:32,637 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\WebServiceRecordManagementSystem\src\test\resources
+2020-09-04 12:45:46,583 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 12:45:46,601 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:45:46,626 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 12:45:46,657 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 12:45:46,682 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:45:46,682 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 12:45:53,869 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 12:45:53,870 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 12:45:53,871 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 12:45:53,871 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 12:45:53,872 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 12:45:53,873 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 12:45:53,896 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 12:45:53,897 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 12:45:53,897 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 12:45:53,898 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 12:46:49,462 [Worker-10: Building Workspace] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: incremental
+2020-09-04 12:46:49,623 [Worker-10: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:46:49,631 [Worker-10: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 12:46:49,642 [Worker-10: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 12:46:49,680 [Worker-10: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:46:49,681 [Worker-10: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 12:46:49,880 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 12:46:49,881 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 12:46:49,882 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 12:46:49,882 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 12:46:49,883 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 12:46:49,884 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 12:46:49,884 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 12:46:49,884 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 12:46:49,885 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 12:46:49,885 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 12:52:32,781 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 12:52:32,794 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:52:32,802 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 12:52:32,813 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 12:52:32,825 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:52:32,826 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 12:52:44,283 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 12:52:44,284 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 12:52:44,284 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 12:52:44,284 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 12:52:44,285 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 12:52:44,285 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 12:52:44,286 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 12:52:44,286 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 12:52:44,286 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 12:52:44,286 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 12:54:24,090 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 12:54:24,123 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:54:24,135 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 12:54:24,164 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 12:54:24,173 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:54:24,173 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 12:54:42,111 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 12:54:42,111 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 12:54:42,111 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 12:54:42,112 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 12:54:42,112 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 12:54:42,112 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 12:54:42,113 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 12:54:42,113 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 12:54:42,114 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 12:54:42,114 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 12:56:11,291 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 12:56:11,303 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:56:11,310 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 12:56:11,380 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 12:56:11,388 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 12:56:11,388 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 12:56:23,157 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 12:56:23,158 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 12:56:23,158 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 12:56:23,159 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 12:56:23,159 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 12:56:23,160 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 12:56:23,160 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 12:56:23,161 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 12:56:23,161 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 12:56:23,162 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 13:03:17,197 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 13:03:17,663 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 13:03:17,670 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 13:03:17,681 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 13:03:17,690 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 13:03:17,690 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 13:03:29,279 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 13:03:29,280 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 13:03:29,280 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 13:03:29,281 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 13:03:29,281 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 13:03:29,281 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 13:03:29,282 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 13:03:29,282 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 13:03:29,282 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 13:03:29,282 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 13:04:15,050 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 13:04:15,061 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 13:04:15,068 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 13:04:15,079 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 13:04:15,085 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 13:04:15,085 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 13:04:20,989 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 13:04:20,994 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 13:04:20,995 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 13:04:20,995 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 13:04:20,996 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 13:04:20,996 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 13:04:20,997 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 13:04:20,997 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 13:04:20,997 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 13:04:20,998 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 13:04:21,007 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 13:04:21,013 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 13:04:21,027 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 13:04:21,035 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 13:04:21,035 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 13:04:40,375 [Worker-18: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: incremental
+2020-09-04 13:04:40,377 [Worker-18: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 13:04:40,377 [Worker-18: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 13:04:40,377 [Worker-18: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 13:04:40,378 [Worker-18: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 13:04:40,378 [Worker-18: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 13:04:40,378 [Worker-18: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 13:04:40,379 [Worker-18: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 13:04:40,379 [Worker-18: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 13:04:40,379 [Worker-18: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 15:08:35,794 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-04 15:11:16,521 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:11:16,653 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 15:11:28,603 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:11:28,611 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 15:11:28,667 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 15:11:30,826 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:11:30,826 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 15:11:36,235 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:11:36,235 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 15:11:36,239 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 15:11:36,239 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 15:11:36,239 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 15:11:36,239 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 15:11:36,239 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 15:11:36,239 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 15:11:36,239 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 15:11:36,239 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 15:15:55,232 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:15:55,284 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:15:55,320 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 15:15:55,384 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 15:15:55,396 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:15:55,396 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 15:16:16,749 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:16:16,753 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 15:16:16,753 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 15:16:16,753 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 15:16:16,753 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 15:16:16,753 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 15:16:16,757 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 15:16:16,757 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 15:16:16,757 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 15:16:16,757 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 15:16:16,773 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:16:16,789 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 15:16:16,829 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 15:16:16,837 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:16:16,837 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 15:16:17,899 [Worker-6: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:16:17,899 [Worker-6: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 15:16:17,899 [Worker-6: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 15:16:17,899 [Worker-6: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 15:16:17,899 [Worker-6: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 15:16:17,899 [Worker-6: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 15:16:17,903 [Worker-6: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 15:16:17,903 [Worker-6: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 15:16:17,903 [Worker-6: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 15:16:17,903 [Worker-6: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 15:29:19,868 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:29:19,884 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:29:19,892 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 15:29:19,954 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 15:29:19,966 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:29:19,966 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 15:29:21,043 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:29:21,043 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 15:29:21,047 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 15:29:21,047 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 15:29:21,047 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 15:29:21,047 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 15:29:21,047 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 15:29:21,047 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 15:29:21,047 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 15:29:21,047 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 15:30:32,083 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:30:32,099 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:30:32,107 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 15:30:32,117 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 15:30:32,123 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:30:32,127 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 15:30:33,562 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:30:33,562 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 15:30:33,562 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 15:30:33,562 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 15:30:33,562 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 15:30:33,562 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 15:30:33,566 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 15:30:33,566 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 15:30:33,566 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 15:30:33,566 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 15:31:50,508 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:31:50,568 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:31:50,580 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 15:31:50,588 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 15:31:50,596 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:31:50,596 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 15:31:51,644 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:31:51,648 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 15:31:51,648 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 15:31:51,648 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 15:31:51,648 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 15:31:51,648 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 15:31:51,648 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 15:31:51,648 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 15:31:51,648 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 15:31:51,648 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 15:41:25,423 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:41:25,441 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:41:25,449 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 15:41:25,465 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 15:41:25,509 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:41:25,509 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 15:41:38,049 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:41:38,053 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 15:41:38,053 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 15:41:38,053 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 15:41:38,053 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 15:41:38,053 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 15:41:38,053 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 15:41:38,053 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 15:41:38,057 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 15:41:38,057 [Worker-13: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 15:42:23,623 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:42:23,647 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:42:23,655 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 15:42:23,709 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 15:42:23,733 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:42:23,733 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 15:42:24,788 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:42:24,788 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 15:42:24,788 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 15:42:24,788 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 15:42:24,788 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 15:42:24,788 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 15:42:24,788 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 15:42:24,792 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 15:42:24,792 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 15:42:24,792 [Worker-15: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 15:48:07,494 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:48:07,504 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:48:07,508 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 15:48:07,520 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 15:48:07,528 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 15:48:07,528 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 15:48:16,356 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 15:48:16,356 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 15:48:16,356 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 15:48:16,360 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 15:48:16,360 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 15:48:16,360 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 15:48:16,360 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 15:48:16,360 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 15:48:16,360 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 15:48:16,360 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 16:09:45,993 [Worker-21: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 16:09:54,442 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 16:09:54,584 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 16:09:54,596 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 16:09:54,608 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 16:09:54,608 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 16:10:56,198 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 16:10:56,232 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 16:10:56,251 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 16:10:56,251 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 16:10:56,251 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 16:10:56,251 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 16:10:56,255 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 16:10:56,255 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 16:10:56,255 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 16:10:56,255 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 16:14:30,141 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 16:14:30,198 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 16:14:30,214 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 16:14:30,254 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 16:14:30,274 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 16:14:30,274 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 16:14:49,860 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 16:14:49,860 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 16:14:49,860 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 16:14:49,860 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 16:14:49,860 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 16:14:49,860 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 16:14:49,860 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 16:14:49,860 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 16:14:49,860 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 16:14:49,860 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 17:34:45,398 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-04 17:37:26,248 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 17:38:33,405 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 17:38:33,458 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 17:38:33,674 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 17:38:33,684 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 17:38:33,685 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 17:38:42,823 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: incremental
+2020-09-04 17:38:42,970 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 17:38:42,982 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 17:38:42,982 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 17:38:42,982 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 17:38:42,983 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 17:38:42,984 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 17:38:42,984 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 17:38:42,985 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 17:38:42,985 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 17:38:43,046 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 17:38:43,075 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 17:38:43,094 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 17:38:43,143 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 17:38:43,143 [Worker-11: Launching AssignmentApp - AssignmentAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 17:38:43,367 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 17:38:43,368 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 17:38:43,370 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 17:38:43,370 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 17:38:43,370 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 17:38:43,371 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 17:38:43,371 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 17:38:43,374 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 17:38:43,375 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 17:38:43,375 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 17:38:51,949 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 17:38:51,961 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 17:38:51,968 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 17:38:52,029 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 17:38:52,038 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 17:38:52,038 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 17:39:14,221 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 17:39:14,223 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 17:39:14,223 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 17:39:14,223 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 17:39:14,223 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 17:39:14,224 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 17:39:14,224 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 17:39:14,224 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 17:39:14,224 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 17:39:14,225 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 17:39:22,068 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 17:39:22,098 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 17:39:22,106 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 17:39:22,120 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 17:39:22,128 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 17:39:22,128 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 17:39:25,745 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 17:39:25,746 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 17:39:25,747 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 17:39:25,748 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 17:39:25,748 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 17:39:25,749 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 17:39:25,749 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 17:39:25,750 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 17:39:25,750 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 17:39:25,750 [Worker-4: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 17:57:20,358 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 17:57:20,568 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 17:57:20,642 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 17:57:20,656 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 17:57:20,666 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 17:57:20,666 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 17:58:12,743 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 17:58:12,822 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 17:58:12,823 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 17:58:12,824 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 17:58:12,824 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 17:58:12,824 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 17:58:12,825 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 17:58:12,825 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 17:58:12,825 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 17:58:12,826 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 18:02:57,795 [Worker-14: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 18:02:57,809 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 18:02:57,816 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 18:02:57,829 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 18:02:57,838 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 18:02:57,839 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 18:03:36,074 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 18:03:36,075 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 18:03:36,076 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 18:03:36,077 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 18:03:36,077 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 18:03:36,077 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 18:03:36,078 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 18:03:36,078 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 18:03:36,078 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 18:03:36,078 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 18:03:38,184 [Worker-22: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 18:03:38,195 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 18:03:38,202 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 18:03:38,212 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 18:03:38,221 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 18:03:38,221 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 18:07:58,042 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 18:07:58,044 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 18:07:58,044 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 18:07:58,044 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 18:07:58,044 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 18:07:58,045 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 18:07:58,045 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 18:07:58,045 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 18:07:58,045 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 18:07:58,045 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-04 18:10:36,223 [Worker-25: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 18:10:36,234 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 18:10:36,243 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-04 18:10:36,254 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-04 18:10:36,273 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-04 18:10:36,274 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-04 18:15:35,947 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-04 18:15:35,948 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-04 18:15:35,949 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-04 18:15:35,950 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-04 18:15:35,950 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-04 18:15:35,950 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-04 18:15:35,950 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-04 18:15:35,951 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-04 18:15:35,951 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-04 18:15:35,951 [Worker-12: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-05 14:42:33,276 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-05 14:47:18,547 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:47:56,394 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:47:56,408 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 14:47:56,511 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-05 14:47:56,655 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:47:56,655 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-05 14:48:02,223 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:48:02,242 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-05 14:48:02,253 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-05 14:48:02,254 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-05 14:48:02,254 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-05 14:48:02,255 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-05 14:48:02,255 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-05 14:48:02,256 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-05 14:48:02,256 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-05 14:48:02,257 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-05 14:48:02,272 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:48:02,285 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 14:48:02,315 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-05 14:48:02,324 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:48:02,325 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-05 14:48:29,150 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:48:29,152 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-05 14:48:29,152 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-05 14:48:29,153 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-05 14:48:29,153 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-05 14:48:29,153 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-05 14:48:29,154 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-05 14:48:29,155 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-05 14:48:29,155 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-05 14:48:29,156 [Worker-8: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-05 14:49:19,279 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:49:19,292 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:49:19,299 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 14:49:19,356 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-05 14:49:19,365 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:49:19,365 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-05 14:49:35,906 [Worker-10: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: incremental
+2020-09-05 14:49:35,922 [Worker-10: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-05 14:49:35,923 [Worker-10: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-05 14:49:35,923 [Worker-10: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-05 14:49:35,923 [Worker-10: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-05 14:49:35,923 [Worker-10: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-05 14:49:35,924 [Worker-10: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-05 14:49:35,924 [Worker-10: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-05 14:49:35,924 [Worker-10: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-05 14:49:35,925 [Worker-10: Launching AssignmentApp - AssignmentAppApplication] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-05 14:53:37,957 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:53:38,516 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:53:38,524 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 14:53:38,536 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-05 14:53:38,545 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:53:38,545 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-05 14:53:41,982 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:53:41,983 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-05 14:53:41,984 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-05 14:53:41,985 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-05 14:53:41,985 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-05 14:53:41,986 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-05 14:53:41,986 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-05 14:53:41,987 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-05 14:53:41,987 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-05 14:53:41,987 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-05 14:54:28,938 [Worker-10: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:54:28,952 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:54:28,959 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 14:54:28,970 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-05 14:54:28,978 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:54:28,978 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-05 14:55:17,080 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:55:17,082 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-05 14:55:17,082 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-05 14:55:17,083 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-05 14:55:17,083 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-05 14:55:17,083 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-05 14:55:17,083 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-05 14:55:17,084 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-05 14:55:17,084 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-05 14:55:17,084 [Worker-9: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-05 14:56:59,448 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:56:59,470 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:56:59,478 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 14:56:59,491 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-05 14:56:59,499 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:56:59,500 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-05 14:57:57,846 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:57:57,847 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-05 14:57:57,847 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-05 14:57:57,848 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-05 14:57:57,849 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-05 14:57:57,849 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-05 14:57:57,850 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-05 14:57:57,850 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-05 14:57:57,850 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html
+2020-09-05 14:57:57,851 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/updateStudent.html
+2020-09-05 14:58:07,794 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:58:07,806 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:58:07,814 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 14:58:07,824 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-09-05 14:58:07,832 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 14:58:07,832 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\AssignmentApp\src\test\resources
+2020-09-05 14:58:37,477 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2020-09-05 14:58:37,479 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/addAssignment.html
+2020-09-05 14:58:37,479 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/assignment/showAssignment.html
+2020-09-05 14:58:37,479 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/error/error.html
+2020-09-05 14:58:37,480 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/fragments.html
+2020-09-05 14:58:37,480 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/home.html
+2020-09-05 14:58:37,480 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/security/Login.html
+2020-09-05 14:58:37,480 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/addStudent.html
+2020-09-05 14:58:37,480 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /AssignmentApp/target/classes/templates/student/displayStudent.html

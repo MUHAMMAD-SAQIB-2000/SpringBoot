@@ -3,6 +3,7 @@ package com.uog.assignment.user.entity;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.ManyToMany;
@@ -25,7 +26,7 @@ public class Assignment extends AbstractUser{
 	@Column(name="assignmentEndDate")
 	private String assignmentEndDate;
 	
-	@ManyToOne
+	@ManyToOne(cascade = CascadeType.ALL)
 	private Course courses ;
 	
 	private String studentRollNumber;

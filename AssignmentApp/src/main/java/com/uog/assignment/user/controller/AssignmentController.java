@@ -1,5 +1,6 @@
 package com.uog.assignment.user.controller;
 
+import javax.annotation.security.RolesAllowed;
 import javax.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -28,6 +29,7 @@ public class AssignmentController {
 	@Autowired 
 	private AssignmentService assignmentService;
 	
+	@RolesAllowed("USER")
 	@GetMapping("/addAssignment")
 	private ModelAndView renderAddAssignmentForm() {
 		ModelAndView mav = new ModelAndView("assignment/addAssignment");
@@ -46,6 +48,7 @@ public class AssignmentController {
 		return "redirect:showAssignment";
 	}
 	
+	@RolesAllowed("ADMIN")
 	@GetMapping("/showAssignment")
 	public ModelAndView displayEvent() {
 		ModelAndView mav = new ModelAndView("assignment/showAssignment");
@@ -53,6 +56,7 @@ public class AssignmentController {
 		return mav;
 	}
 	
+	@RolesAllowed({"USER","ADMIN"})
 	@GetMapping("/deleteAssignment/{id}")
     public String deleteUser(@PathVariable("id") int assignmentId, Model model) {
 		Assignment assignment = assignmentService.getById(assignmentId);
