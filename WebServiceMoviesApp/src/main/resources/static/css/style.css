@@ -165,7 +165,10 @@ img {
 .box:before, .box:after {
 	background: linear-gradient(235deg, #4bcffa, #060c21, #00bcd4);
 }
-
+.ep-box{
+	width:800;
+	height:400;
+}
 .content {
 	padding: 20px;
 	box-sizing: border-box;

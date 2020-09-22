@@ -24,5 +24,8 @@ public class SeasonService {
 		return seasonRepository.findAll();
 	}
 	
-
+	public Season findSeason(Integer Id){
+		return seasonRepository.findById(Id).orElse(null);
+	}
+	
 }

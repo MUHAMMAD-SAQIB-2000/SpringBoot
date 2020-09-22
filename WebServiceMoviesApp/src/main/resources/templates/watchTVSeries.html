@@ -52,7 +52,7 @@
 							<img th:alt="${season.seasonImage}" th:src="@{/img/{seasonImage}(seasonImage=${season.seasonImage})}" />
 						<div class="content">
 							<h2 class="movie-name"><span th:text="${season.tvSeries.tvSeriesName}+' '+${season.seasonNumber}"></span></h2>
-							<a th:href="@{/watchSeries/{tvSeries.tvSeriesName}(tvSeries.tvSeriesName=${season.tvSeries.tvSeriesName})}" class="card-btn card-btn-1">Watch<span>&rarr;</span></a>
+							<a th:href="@{/watchSeason/{Id}(Id=${season.Id})}" class="card-btn card-btn-1">Watch<span>&rarr;</span></a>
 						</div>
 					</div>
 				</div>
