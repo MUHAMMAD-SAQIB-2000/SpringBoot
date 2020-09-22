@@ -57,6 +57,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\FaCeboOk_login1"/>
 			<item value="C:\Users\Cyan Dancer 197\Downloads\Compressed\spring-boot-examples-master\spring-boot-examples-master\spring-boot-rest-services"/>
 			<item value="C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\Hibernate"/>
 			<item value="C:\Users\Cyan Dancer 197\Documents\MYSQL\MYSQL JAVA WORKSPACE\hibernatejar"/>
@@ -66,6 +67,16 @@
 		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.springsource.ide.eclipse.commons.gettingstarted.wizard.boot.NewSpringBootWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.springsource.ide.eclipse.boot.wizards.category"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="380"/>
+		<item key="DIALOG_Y_ORIGIN" value="185"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
 </section>

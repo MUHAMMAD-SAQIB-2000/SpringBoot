@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Movies Mania!</title>
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+	<!--<table>
+		<thead>
+			<tr>
+				<th>Movie ID</th>
+				<th>Movie Name</th>
+				<th>Movie Description</th>
+				<th>Movie Ratings</th>
+				<th>Movie Release Year</th>
+				<th>Movie Image</th>
+			<th>Edit</th>
+				<th>Delete</th>
+			</tr>
+		</thead>
+		<tbody th:each=" movie: ${movies}">
+			<tr >
+				<td th:text="${movie.Id}"></td>
+				<td ><a th:text="${movie.movieName}" th:href="@{/moviesByName/{movieName}(movieName=${movie.movieName})}"></a></td>
+				<td th:text="${movie.movieDesc}"></td>
+				<td th:text="${movie.movieRating}"></td>
+				<td ><a th:text="${movie.movieReleaseYear}" th:href="@{/moviesByYear/{movieReleaseYear}(movieReleaseYear=${movie.movieReleaseYear})}"></a></td>
+				<td ><img  th:alt ="${movie.movieImage}" th:src="@{/img/{movieImage}(movieImage=${movie.movieImage})}" /></td>
+			</tr>
+		</tbody>	
+	</table>-->
+	<nav>
+		<label class="logo">Movies Mania</label>
+		<ul>
+			<li><a th:href="@{/}">Home</a></li>
+			<li><a class="activePage" th:href="@{/movies}">Movies</a></li>
+			<li><a th:href="@{/tvseries}">TV Series</a></li>
+			<li><a th:href="@{/seasons}">Seasons</a></li>
+			<li><a href="#">Feedback</a></li>
+		</ul>
+	</nav>
+
+	<div class="pos" id="btnContainer">
+		<button class="btn" onclick="listView()">
+			<i class="fa fa-bars"></i> List View
+		</button>
+		<button class="btn active" onclick="gridView()">
+			<i class="fa fa-th-large"></i> Grid View
+		</button>
+	</div>
+	<br>
+
+	<hr />
+	<marquee scrollamount="5">
+		<h1 class="moving-text">Movies</h1>
+	</marquee>
+	<hr />
+	
+	<div class="container">
+		<div class="row ">
+			<div class="column " th:each=" movie: ${movies}">
+				<div class="box">
+					<img th:alt="${movie.movieImage}"	th:src="@{/img/{movieImage}(movieImage=${movie.movieImage})}" />
+					<div class="content">
+						<h2 class="movie-name"><span th:text="${movie.movieName}"></span></h2>
+						<a th:href="@{/watchMovie/{movieName}(movieName=${movie.movieName})}" class="card-btn card-btn-1">Watch<span>&rarr;</span></a>
+						<a th:href="@{/watchMovie/{movieName}(movieName=${movie.movieName})}" class="card-btn card-btn-1">Details<span>&rarr;</span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer >
+		<div class="footer">
+			<h3>&#x24B8; All Rights Reserved By, Movies Mania!</h3>
+		</div>
+	</footer>
+	<script>
+		// Get the elements with class="column"
+		var elements = document.getElementsByClassName("column");
+
+		// Declare a loop variable
+		var i;
+
+		// List View
+		function listView() {
+			for (i = 0; i < elements.length; i++) {
+				elements[i].style.width = "100%";
+			}
+		}
+
+		// Grid View
+		function gridView() {
+			for (i = 0; i < elements.length; i++) {
+				elements[i].style.width = "25%";
+			}
+		}
+
+		/* Optional: Add active class to the current button (highlight it) */
+		var container = document.getElementById("btnContainer");
+		var btns = container.getElementsByClassName("btn");
+		for (var i = 0; i < btns.length; i++) {
+			btns[i].addEventListener("click", function() {
+				var current = document.getElementsByClassName("active");
+				current[0].className = current[0].className.replace(" active",
+						"");
+				this.className += " active";
+			});
+		}
+	</script>
+
+</body>
+</html>

@@ -40,7 +40,6 @@ public class ModuleThreeController {
 		mav.addObject(new Event());
 		Set<EventType> allEnums = EnumSet.complementOf(EnumSet.of(EventType.NOTDEFINED));
 		mav.addObject("types" , allEnums);
-		//mav.addObject("types" , eventRepository.findAll());
 		return mav;
 	}
 	
