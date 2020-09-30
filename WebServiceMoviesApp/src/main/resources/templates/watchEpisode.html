@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Movies Mania!</title>
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+	<nav >
+		<label class="logo">Movies Mania</label>
+		<ul>
+			<li><a th:href="@{/}">Home</a></li>
+			<li><a th:href="@{/movies}">Movies</a></li>
+			<li><a th:href="@{/tvseries}">TV Series</a></li>
+			<li><a class="activePage" th:href="@{/seasons}">Seasons</a></li>
+		</ul>
+	</nav>
+	<br>
+	<div class="banner">
+		<hr />
+			<marquee scrollamount="5">
+				<h1 class="moving-text">Episode</h1>
+			</marquee>
+		<hr />
+	</div>
+	<div class="video-box" th:each=" episode: ${episode}">
+		<iframe class="vid-box" th:src="${episode.episodeLink}" ></iframe>
+	</div>
+	<footer >
+		<div class="footer">
+			<h3>&#x24B8; All Rights Reserved By, Movies Mania!</h3>
+		</div>
+	</footer>
+
+</body>
+</html>

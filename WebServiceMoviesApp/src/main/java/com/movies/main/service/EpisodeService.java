@@ -21,5 +21,10 @@ public class EpisodeService {
 			.collect(Collectors.toList());
 		return episodes;
 	}
+	
+	public Episode getEpisode(Integer Id){
+		Episode episodes = epRepo.findById(Id).orElse(null);
+		return episodes;
+	}
 
 }

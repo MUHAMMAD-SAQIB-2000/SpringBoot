@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Home Movies Mania!</title>
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+	<div id="myNav" class="overlay">
+		<div class="overlay-content">
+			<a th:href="@{/}">Home</a>
+			<a th:href="@{/movies}">Movies</a>
+			<a th:href="@{/tvseries}">TV Series</a>
+			<a th:href="@{/seasons}">Seasons</a>
+		</div>
+	</div>
+</body>
+</html>

@@ -31,7 +31,7 @@ public class MovieController {
 		return mav;
 	}
 	
-	@GetMapping(value={"/" , "/movies"})
+	@GetMapping(value={"/movies"})
 	public ModelAndView getAllMovies(){
 		ModelAndView mav = new ModelAndView("allMovies.html");
 		mav.addObject("movies" , movieService.getAll());

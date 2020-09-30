@@ -10,25 +10,23 @@
 <link rel="stylesheet" th:href="@{/css/style.css}">
 </head>
 <body>
-	<nav>
+	<nav >
 		<label class="logo">Movies Mania</label>
 		<ul>
 			<li><a th:href="@{/}">Home</a></li>
 			<li><a class="activePage" th:href="@{/movies}">Movies</a></li>
 			<li><a th:href="@{/tvseries}">TV Series</a></li>
 			<li><a th:href="@{/seasons}">Seasons</a></li>
-			<li><a href="#">Feedback</a></li>
 		</ul>
 	</nav>
-
 	<br>
-
-	<hr />
-	<marquee scrollamount="5">
-		<h1 class="moving-text">Movies</h1>
-	</marquee>
-	<hr />
-	
+	<div class="banner">
+		<hr />
+			<marquee scrollamount="5">
+				<h1 class="moving-text">Movies</h1>
+			</marquee>
+		<hr />
+	</div>
 	<div class="content">
 		<div class="container">
 			<div class="row ">
@@ -36,14 +34,14 @@
 					<div class="box">
 							<img th:alt="${movie.movieImage}"	th:src="@{/img/{movieImage}(movieImage=${movie.movieImage})}" />
 						<div class="content">
-							<h2 class="movie-name"><span th:text="${movie.movieName}"></span></h2>
-							<a th:href="@{/watchMovie/{movieName}(movieName=${movie.movieName})}" class="card-btn card-btn-1">Watch<span>&rarr;</span></a>
-							<a th:href="@{/watchMovie/{movieName}(movieName=${movie.movieName})}" class="card-btn card-btn-1">Details<span>&rarr;</span></a>
+							<h2 class="movie-name" th:text="${movie.movieName}"></h2>
+							<h2 class="movie-name" th:text="'Release Year: '+${movie.movieReleaseYear}"></h2>
+							<h2 class="movie-name" th:text="'Ratings: '+${movie.movieRating}"></h2>
 						</div>
 					</div>
 				</div>
 				<div class="column">
-					<iframe src="https://drive.google.com/file/d/0By9CrotmIFbuZE1nTzYtcUVENlU/preview" width="800" height="400"></iframe>
+					<iframe class="vid-box" th:src="${movie.movieLink}"></iframe>
 				</div>
 			</div>
 		</div>		

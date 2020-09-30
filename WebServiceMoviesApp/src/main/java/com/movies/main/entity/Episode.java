@@ -22,16 +22,28 @@ public class Episode {
 	@Column(name="episode_name")
 	private String episodeName;
 	
+	@Column(name="episode_Link")
+	private String episodeLink;
+	
 	@ManyToOne
 	private Season season;
 	
 	public Episode() {}
 
-	public Episode(Integer id, Integer episodeNumber, String episodeName, Season season) {
+	public Episode(Integer id, Integer episodeNumber, String episodeName, Season season , String episodeLink) {
 		this.Id = id;
 		this.episodeNumber = episodeNumber;
 		this.episodeName = episodeName;
 		this.season = season;
+		this.episodeLink = episodeLink;
+	}
+
+	public String getEpisodeLink() {
+		return episodeLink;
+	}
+
+	public void setEpisodeLink(String episodeLink) {
+		this.episodeLink = episodeLink;
 	}
 
 	public Integer getId() {

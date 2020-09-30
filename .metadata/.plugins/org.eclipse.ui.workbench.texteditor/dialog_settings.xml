@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="Country"/>
+		<item key="selection" value="vid"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="vid"/>
+			<item value="container"/>
+			<item value="ile"/>
 			<item value="Product"/>
 			<item value="th:value=&quot;studentRollNumber&quot;"/>
 			<item value="value=&quot;&quot;"/>
@@ -20,9 +23,6 @@
 			<item value="inp"/>
 			<item value="&quot;l&quot;"/>
 			<item value="&quot;x&quot;"/>
-			<item value="&quot;v&quot;"/>
-			<item value="&quot;i&quot;"/>
-			<item value="&#x09;&#x09;// TODO Auto-generated method stub"/>
 		</list>
 		<list key="replacehistory">
 			<item value="Country"/>
@@ -46,6 +46,13 @@
 		<item key="DIALOG_Y_ORIGIN" value="264"/>
 		<item key="DIALOG_WIDTH" value="284"/>
 		<item key="DIALOG_HEIGHT" value="293"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.wst.html.ui.internal.preferences.ui.HTMLTemplatePreferencePage$HTMLEditTemplateDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="47"/>
+		<item key="DIALOG_Y_ORIGIN" value="58"/>
+		<item key="DIALOG_WIDTH" value="611"/>
+		<item key="DIALOG_HEIGHT" value="331"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>

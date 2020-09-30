@@ -39,7 +39,7 @@ public class TVSeriesController {
 		return mav;
 	}
 	
-	@GetMapping("/seriesDetail/{Id}")
+	@GetMapping("/series/{Id}")
 	public ModelAndView getTVSeriesDetails(@PathVariable(required = false , value="Id") Integer Id){
 		ModelAndView mav = new ModelAndView("watchTVSeries.html");
 		TVSeries tvSeries = tvSeriesService.getById(Id);

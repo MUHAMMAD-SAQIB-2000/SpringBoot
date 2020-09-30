@@ -30,6 +30,9 @@ public class Season {
 	@Column(name="season_image")
 	private String seasonImage;
 	
+	@Column(name="season_link")
+	private String seasonLink;
+	
 	@ManyToOne()
 	private TVSeries tvSeries;
 	
@@ -38,14 +41,32 @@ public class Season {
 
 	public Season() {}
 	
-	public Season(Integer id, Integer numberOfEpisodes, Integer seasonNumber, String seasonImage, TVSeries tvSeries) {
+	public Season(Integer id, Integer numberOfEpisodes, Integer seasonNumber, String seasonImage, TVSeries tvSeries , String seasonLink) {
 		this.Id = id;
 		this.numberOfEpisodes = numberOfEpisodes;
 		this.seasonNumber = seasonNumber;
 		this.seasonImage = seasonImage;
 		this.tvSeries = tvSeries;
+		this.seasonLink = seasonLink;
 	}
 	
+	
+	public String getSeasonLink() {
+		return seasonLink;
+	}
+
+	public void setSeasonLink(String seasonLink) {
+		this.seasonLink = seasonLink;
+	}
+
+	public List<Episode> getEpisode() {
+		return episode;
+	}
+
+	public void setEpisode(List<Episode> episode) {
+		this.episode = episode;
+	}
+
 	public String getSeasonImage() {
 		return seasonImage;
 	}

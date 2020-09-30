@@ -10,25 +10,23 @@
 <link rel="stylesheet" th:href="@{/css/style.css}">
 </head>
 <body>
-	<nav>
+	<nav >
 		<label class="logo">Movies Mania</label>
 		<ul>
 			<li><a th:href="@{/}">Home</a></li>
 			<li><a th:href="@{/movies}">Movies</a></li>
 			<li><a th:href="@{/tvseries}">TV Series</a></li>
 			<li><a class="activePage" th:href="@{/seasons}">Seasons</a></li>
-			<li><a href="#">Feedback</a></li>
 		</ul>
 	</nav>
-
 	<br>
-
-	<hr />
-	<marquee scrollamount="5">
-		<h1 class="moving-text">Movies</h1>
-	</marquee>
-	<hr />
-	
+	<div class="banner">
+		<hr />
+			<marquee scrollamount="5">
+				<h1 class="moving-text">Season</h1>
+			</marquee>
+		<hr />
+	</div>
 	<div class="content">
 		<div class="container">
 			<div class="row ">
@@ -42,11 +40,12 @@
 						</div>
 					</div>
 				</div>
-				<div class="column box">
-					<ul th:each=" episode: ${episodes}">
-						<li><a th:text="'Ep No: '+${episode.episodeNumber}+' '+${episode.episodeName}">hi</a></li>
-					</ul>	
-			</div>
+				<div class="column " th:each=" episode: ${episodes}">
+					<div class="content" >
+						<h4 class="ep-list" th:text="'Ep No: '+${episode.episodeNumber}"></h4>
+						<a class="ep-list" th:href="@{/watchEpisode/{Id}(Id=${episode.Id})}" target="blank" th:text="'Ep Name: '+${episode.episodeName}">hi</a>					
+					</div>	
+				</div>
 			</div>			
 		</div>		
 	</div>	

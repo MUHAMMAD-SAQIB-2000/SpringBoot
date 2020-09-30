@@ -35,6 +35,9 @@ public class TVSeries {
 	@Column(name="tvseries_img")
 	private String tvSeriesImage;
 	
+	@Column(name="tvseries_link")
+	private String tvSerieslink;
+	
 	@Column(name="tvseries_number_of_seasons")
 	private Integer tvSeriesNumberOfSeasons;
 	
@@ -45,7 +48,7 @@ public class TVSeries {
 	}
 
 	public TVSeries(Integer id, String tvSeriesName, String tvSeriesDesc, Long tvSeriesReleaseYear,
-			double tvSeriesRating, String tvSeriesImage, Integer tvSeriesNumberOfSeasons, List<Season> season) {
+			double tvSeriesRating, String tvSeriesImage, Integer tvSeriesNumberOfSeasons, List<Season> season , String tvSerieslink) {
 		this.Id = id;
 		this.tvSeriesName = tvSeriesName;
 		this.tvSeriesDesc = tvSeriesDesc;
@@ -54,15 +57,16 @@ public class TVSeries {
 		this.tvSeriesImage = tvSeriesImage;
 		this.tvSeriesNumberOfSeasons = tvSeriesNumberOfSeasons;
 		this.season = season;
+		this.tvSerieslink = tvSerieslink;
+	}
+	
+
+	public String getTvSerieslink() {
+		return tvSerieslink;
 	}
 
-	
-	@Override
-	public String toString() {
-		return "TVSeries [Id=" + Id + ", tvSeriesName=" + tvSeriesName + ", tvSeriesDesc=" + tvSeriesDesc
-				+ ", tvSeriesReleaseYear=" + tvSeriesReleaseYear + ", tvSeriesRating=" + tvSeriesRating
-				+ ", tvSeriesImage=" + tvSeriesImage + ", tvSeriesNumberOfSeasons=" + tvSeriesNumberOfSeasons
-				+ ", season=" + season + "]";
+	public void setTvSerieslink(String tvSerieslink) {
+		this.tvSerieslink = tvSerieslink;
 	}
 
 	public Integer getId() {

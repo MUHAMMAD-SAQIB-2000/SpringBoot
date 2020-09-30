@@ -30,16 +30,20 @@ public class Movie {
 	@Column(name="movie_img")
 	private String movieImage;
 	
+	@Column(name="movie_link")
+	private String movieLink;
+	
 	public Movie() {
 	}
 
-	public Movie(Integer id, String movie_Name, String movie_Desc, Long movie_ReleaseYear, double movie_Rating , String movie_Image) {
+	public Movie(Integer id, String movie_Name, String movie_Desc, Long movie_ReleaseYear, double movie_Rating , String movie_Image ,String movieLink) {
 		this.Id = id;
 		this.movieName = movie_Name;
 		this.movieDesc = movie_Desc;
 		this.movieReleaseYear = movie_ReleaseYear;
 		this.movieRating = movie_Rating;
 		this.movieImage = movie_Image;
+		this.movieLink = movieLink;
 	}
 
 	public Integer getId() {
@@ -88,6 +92,14 @@ public class Movie {
 
 	public void setMovieImage(String movieImage) {
 		this.movieImage = movieImage;
+	}
+
+	public String getMovieLink() {
+		return movieLink;
+	}
+
+	public void setMovieLink(String movieLink) {
+		this.movieLink = movieLink;
 	}
 
 	

@@ -10,16 +10,16 @@
 <link rel="stylesheet" th:href="@{/css/style.css}">
 </head>
 <body>
-	<nav>
+	<nav >
 		<label class="logo">Movies Mania</label>
 		<ul>
-			<li><a th:href="@{/}">Home</a></li>
+			<li><a class="activePage" th:href="@{/}">Home</a></li>
 			<li><a th:href="@{/movies}">Movies</a></li>
 			<li><a th:href="@{/tvseries}">TV Series</a></li>
 			<li><a th:href="@{/seasons}">Seasons</a></li>
-			<li><a href="#">Feedback</a></li>
 		</ul>
 	</nav>
+	<br>
 	<h2 style="color:'red;' " th:text="${error}"></h2>
 	<footer >
 		<div class="footer">
