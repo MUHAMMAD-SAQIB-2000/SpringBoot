@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>ISRA TRAVELS FRAGMENTS</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" type='text/css'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type='text/css'>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" type='text/css'>
+	<link rel="stylesheet" href="style.css" type='text/css'>
+</head>
+<body>
+
+	<div th:fragment="header">
+		<div class="Header-Area">
+			<!--Header-search Area-->
+			<div id="search" class="search">
+				<div class="container ">
+					<form action="contact.html" method="GET">
+						<input type="text" placeholder="Type your keyword......">
+						<button type="submit">
+							<i class="fa fa-search"></i>
+						</button>
+					</form>
+				</div>
+			</div>
+			<!--Header-search Area End-->
+			<!-- Top-Header Area-->
+			<div class="top-header">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-8">
+							<div class="top-header-content1 ">
+								<ul>
+									<li><a href="#" class="icons"><i class="fa fa-phone fa-lg"></i> (123) 456-789-1230</a></li>
+									<li><a href="#" class="icons"><i class="fas fa-envelope fa-lg"></i> info.colorlib@gmail.com</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<!--Social icons-->
+							<div class="social-icons ">
+								<ul>
+									<li><a href="#" class="icons" ><i class="fab fa-facebook"></i></a></li>
+									<li><a href="#" class="icons" ><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#" class="icons" ><i class="fab fa-google"></i></a></li>
+									<li><a href="#" class="icons" ><i class="fab fa-linkedin"></i></a></li>
+									<li><a href="#" class="icons" ><i class="fab fa-youtube"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--Top-Header Area End-->
+			<!-- Main-Header Area-->
+			<div class="MainHeader">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-4">
+							<h1>LOGO</h1>
+						</div>
+						<div class="col-lg-6">
+							<div class="Navbar">
+								<ul>
+									<li><a th:href="@{/home}">Home</a></li>
+									<li><a th:href="@{/AboutUs}">About Us</a></li>
+									<li><a th:href="@{/home}">Services</a></li>
+									<li><a th:href="@{/ContactUs}">Contact Us</a></li>
+
+									<li onclick="showSearchBar()" class="search-btn"><i class="fa fa-search fa-lg"></i></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-lg-2">
+							<div class="booknow">
+								<a href="#">BOOK NOW <i class="fa fa-plane" aria-hidden="true"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Main-Header Are End-->
+		</div>
+	</div>
+	<div th:fragment="footer">
+		<div class="footer-area">
+			<div class="inner-width">
+				<div class="row">
+					<div class="col-lg-5">
+						<div class="first-widget">
+							<h1>LOGO</h1>
+							<h3>+12 345-678-9999</h3>
+							<p>Info.colorlib@gmail.com</p>
+							<p>856 Cordia Extension Apt. 356, Lake Deangeloburgh, South	Africa</p>
+						</div>
+					</div>
+					<div class="col-lg-3">
+						<div class="third-widget">
+							<ul class="footer-nav">
+								<li class="nav-item">
+									<h4 class="nav-title">QUICK LINKS</h4>
+									<ul class="nav-ul">
+										<li><i class="fa fa-caret-right"></i> <a
+											th:href="@{/home}">Home</a></li>
+											<li><i class="fa fa-caret-right"></i> <a
+												th:href="@{/AboutUs}">About Us</a></li>
+												<li><i class="fa fa-caret-right"></i> <a
+													th:href="@{/ContactUs}">Contact Us</a></li>
+													<li><i class="fa fa-caret-right"></i> <a href="#">Rooms</a>					</li>
+												</ul>
+											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="col-lg-4">
+									<div class="fourth-widget">
+										<h1 class="widget-title">NEWSLETTER</h1>
+										<span>Subscribe our newsletter to get notification about
+											new updates.</span>
+											<div class="email">
+												<input type="email" placeholder="Enter your email...">
+												<button type="submit">
+													<i class="fa fa-paper-plane"></i>
+												</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="copywrite-area">
+								<div class="inner-width">
+									<div class="row">
+										<div class="col-lg-6">
+											<div class="copywrite-content">
+												<p>Copyright &copy; <script>document.write(new Date().getFullYear());</script> All rights reserved | Designed by Arooj Saghar</p>
+											</div>
+										</div>
+										<div class="col-lg-6">
+											<div class="social-icons">
+												<ul>
+													<li><a href="#" class="icons" ><i class="fab fa-facebook"></i></a></li>
+													<li><a href="#" class="icons" ><i class="fab fa-twitter"></i></a></li>
+													<li><a href="#" class="icons" ><i class="fab fa-google"></i></a></li>
+													<li><a href="#" class="icons" ><i class="fab fa-linkedin"></i></a></li>
+													<li><a href="#" class="icons" ><i class="fab fa-youtube"></i></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Scripts -->
+					<div th:fragment="scripts">
+						<script	src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+						<script	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+						<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+						<script	src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js"></script>
+						<script	src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"	charset="utf-8"></script>
+						<script	src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js"	charset="utf-8"></script>
+						<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" charset="utf-8"></script>
+						<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" charset="utf-8"></script>
+						<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-dropdown-hover/4.2.0/jquery.bootstrap-dropdown-hover.min.js"></script>
+						<script src="script.js"></script>
+					</div>
+					<!-- Scripts -->
+				</body>
+				</html>

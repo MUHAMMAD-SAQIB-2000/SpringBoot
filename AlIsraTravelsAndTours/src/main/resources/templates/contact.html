@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONTACT US</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type='text/css'>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" type='text/css'>
+    <link rel="stylesheet" href="style.css" type='text/css'>
+</head>
+<body>
+	<!--Header Area-->
+	<div th:replace="fragments.html :: header"></div>
+	<!--Header Area End-->
+	
+    <section id="contact-form">
+        <div class="container">
+         <div class="form-sections">
+           <!-- Form left -->
+           <div class="Form-left">
+             <h1>Get In Touch</h1>
+             <div class="line"></div> <!--border-bottom line-->
+             <p>Contact us for latest news and updates. subscribe our news letter :)</p><br>
+
+             <!--first Heading -->
+             <h4>ADDRESS</h4>
+              <span>123, Main Street, Gujrat</span>
+              <hr><br><br>
+
+              <!--second Heading -->
+             <h4>PHONE</h4>
+              <span>(+1)123 456 7890</span>
+              <hr><br><br>
+
+            <!--third Heading -->
+             <h4>EMAIL</h4>
+              <span>Saqib@gmail.com</span>
+              <hr> <br>
+
+              <!-- social media icons -->
+               	<div class="social-icons ">
+					<ul>
+						<li><a href="#" class="icons" ><i class="fab fa-facebook"></i></a></li>
+						<li><a href="#" class="icons" ><i class="fab fa-twitter"></i></a></li>
+						<li><a href="#" class="icons" ><i class="fab fa-google"></i></a></li>
+						<li><a href="#" class="icons" ><i class="fab fa-linkedin"></i></a></li>
+						<li><a href="#" class="icons" ><i class="fab fa-youtube"></i></a></li>
+					</ul>
+				</div>
+           </div>
+
+           <!-- form right -->
+           <div class="Form-right">
+             <h1>Contact Us</h1>
+             <div class="line"></div>
+	             <!-- form -->
+             <form th:action="@{/ContactUs}" th:method="POST" th:object="${ContactUsForm}">
+	               <h4>NAME</h4>
+	               <input th:field="${ContactUsForm.contactName}" placeholder="Enter Your Name here...."type="text"><br>
+	               <h4>EMAIL</h4>
+	               <input th:field="${ContactUsForm.contactEmail}" placeholder="Enter Your Email here...."type="email"><br>
+	               <h4>PHONE</h4>
+	               <input th:field="${ContactUsForm.contactNumber}" type="text" placeholder="Enter Your Contact # here...."><br>
+	               <h4>YOUR MESSAGE</h4>
+	               <textarea th:field="${ContactUsForm.contactMessage}" placeholder="Enter Your message here...." cols="50" rows="5"></textarea><br>
+	               <button>Send</button>
+             </form>
+           	</div>
+         	</div>
+         </div>
+      </section>
+
+	<!--Footer-->
+	<div th:replace="fragments.html :: footer"></div>
+	<!--Footer End-->
+	
+	<!-- Scripts -->
+	<span th:replace="fragments.html :: scripts"></span>
+    <!-- Scripts -->
+</body>
+</html>

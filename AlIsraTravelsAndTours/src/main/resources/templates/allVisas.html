@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ISRA TRAVELS All Visas</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type='text/css'>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" type='text/css'>
+    <link rel="stylesheet" href="style.css" type='text/css'>
+</head>
+<body>
+	<!--Header Area-->
+	<div th:replace="fragments.html :: header"></div>
+	<!--Header Area End-->
+	<!--VISAS Area START-->
+	<div class="table-responsive">
+  		<table class="table table-bordered table-dark table-hover table-stripped">
+		  <thead>
+		    <tr>
+		      <th scope="col">#</th>
+		      <th scope="col">Country</th>
+		      <th scope="col">Visa</th>
+		      <th scope="col">Visa Validity</th>
+		      <th scope="col">Visa Stay Limit</th>
+		      <th scope="col">Visa Price</th>
+		    </tr>
+		  </thead>
+		  <tbody>
+		    <tr th:each=" visa: ${allVisas}">
+				<th scope="row" th:text="${visa.visaId}"></th>
+				<td th:text="${visa.visaCountry}"></td>
+				<td th:text="${visa.visaFor}"></td>
+				<td th:text="${visa.visaValidity}"></td>
+				<td th:text="${visa.visaCoutryStayLimit}"></td>
+				<td th:text="${visa.visaPrice} +' PKR'"></td>
+		    </tr>
+		  </tbody>
+		</table>
+	</div>
+	<!--VISAS Area End-->
+	
+	<!--Footer-->
+	<div th:replace="fragments.html :: footer"></div>
+	<!--Footer End-->
+	
+	<!-- Scripts -->
+	<span th:replace="fragments.html :: scripts"></span>
+    <!-- Scripts -->
+</body>
+</html>

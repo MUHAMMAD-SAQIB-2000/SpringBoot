@@ -1,30 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="vid"/>
+		<item key="selection" value="col-md-6"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="col-md-4"/>
+			<item value="hotel"/>
+			<item value="col-md-3"/>
+			<item value="hotell"/>
+			<item value="hote"/>
+			<item value="umrahPackageH"/>
+			<item value="booknow"/>
+			<item value="footerNav"/>
+			<item value="social-icons"/>
+			<item value="th:value"/>
 			<item value="vid"/>
 			<item value="container"/>
 			<item value="ile"/>
 			<item value="Product"/>
 			<item value="th:value=&quot;studentRollNumber&quot;"/>
-			<item value="value=&quot;&quot;"/>
-			<item value="EventData"/>
-			<item value="student"/>
-			<item value="studentRepository"/>
-			<item value="COURSE_"/>
-			<item value="html"/>
-			<item value="// TODO Auto-generated method stub"/>
-			<item value="inp"/>
-			<item value="&quot;l&quot;"/>
-			<item value="&quot;x&quot;"/>
 		</list>
 		<list key="replacehistory">
+			<item value="col-md-6"/>
+			<item value="col-md-4"/>
+			<item value="hotel"/>
+			<item value="h"/>
+			<item value="value"/>
 			<item value="Country"/>
 			<item value="th:value=&quot;studentSemester&quot;"/>
 			<item value="th:value=&quot;studentRollNumber&quot;"/>
@@ -35,10 +40,6 @@
 			<item value="&apos;l&apos;"/>
 			<item value="&apos;v&apos;"/>
 			<item value="&apos;i&apos;"/>
-			<item value=" "/>
-			<item value="room"/>
-			<item value="roomRepository"/>
-			<item value="existingRoom"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">

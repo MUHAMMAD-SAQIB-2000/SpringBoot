@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ISRA TRAVELS Add Visa</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type='text/css'>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" type='text/css'>
+    <link rel="stylesheet" href="style.css" type='text/css'>
+</head>
+<body>
+	<!--Header Area-->
+	<div th:replace="fragments.html :: header"></div>
+	<!--Header Area End-->
+	
+	<!--Form Area Start-->
+	<div class="container-fluid add-form">
+		<form method="POST" th:action="@{/addVisa}" th:object="${newVisa}">
+		  <div class="form-row">
+		    <div class="form-group col-md-6">
+		      <label >Visa Country</label>
+		      <input th:field="${newVisa.visaCountry}" type="text" class="form-control" placeholder="Enter Country for which this is...">
+		    </div>
+		    <div class="form-group col-md-6">
+		      <label >Visa Type</label>
+		      <select th:field="${newVisa.visaFor}" class="form-control form-control-sm">
+		    	<option value="">Enter Visa Type e.g. work, visit</option>
+		    	<option disabled="disabled" value="visaFor">----------------------</option>
+  				<option value="WORK VISA">Work Visa</option>
+  				<option value="VISIT VISA">Visit Visa</option>
+  				<option value="TRANSIT VISA">Transit Visa</option>
+			</select>
+		    </div>
+		  </div>
+		  <div class="form-group col-md-6">
+		    <label >Visa Validity</label>
+		    <select th:field="${newVisa.visaValidity}" class="form-control form-control-sm">
+		    	<option value="">Select Visa Validity Days</option>
+		    	<option disabled="disabled" value="visaValidity">----------------------</option>
+  				<option value="30 DAYS">30 DAYS</option>
+  				<option value="90 DAYS">90 DAYS</option>
+  				<option value="180 DAYS">180 DAYS</option>
+			</select>
+		  </div>
+		  <div class="form-group col-md-6">
+		    <label >Visa Stay Limit</label>
+		    <select th:field="${newVisa.visaCoutryStayLimit}" class="form-control form-control-sm">
+		    	<option value="">Select Visa Stay Limit</option>
+		    	<option disabled="disabled" value="visaCoutryStayLimit">----------------------</option>
+		    	<option value="14 DAYS">14 DAYS</option>
+  				<option value="30 DAYS">30 DAYS</option>
+  				<option value="90 DAYS">90 DAYS</option>
+  				<option value="180 DAYS">180 DAYS</option>
+			</select>
+		  </div>
+		  <div class="form-group col-md-6">
+		    <label >Visa Price</label>
+		    <input th:field="${newVisa.visaPrice}" type="number" class="form-control" placeholder="Enter Price....">
+		  </div>
+		  <div class="form-group col-md-6">
+		  	<label >Click to Save Details!!!</label><br>
+		  	<input type="submit"class="btn btn-success" value="Save Details" >
+		  </div>
+		  	  
+		</form>
+	
+	</div>
+	<!--Form Area End-->
+	
+	<!--Footer-->
+	<div th:replace="fragments.html :: footer"></div>
+	<!--Footer End-->
+	
+	<!-- Scripts -->
+	<span th:replace="fragments.html :: scripts"></span>
+    <!-- Scripts -->
+</body>
+</html>

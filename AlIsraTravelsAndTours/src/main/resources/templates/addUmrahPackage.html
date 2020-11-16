@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ISRA TRAVELS ADD UMRAH PACKAGE</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type='text/css'>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" type='text/css'>
+    <link rel="stylesheet" href="style.css" type='text/css'>
+</head>
+<body>
+	<!--Header Area-->
+	<div th:replace="fragments.html :: header"></div>
+	<!--Header Area End-->
+	
+	<!--Form Area Start-->
+	<div class="container-fluid add-form">
+		<form method="POST" th:action="@{/Umrah-Details-Add}" th:object="${umrah}">
+		  <div class="form-row">
+		    <div class="form-group col-md-4">
+		      <label >Approval Rate</label>
+		      <input th:field="${umrah.umrahPackageApprovalRate}" type="number" class="form-control" placeholder="Please Enter Approval Rate...">
+		    </div>
+		    <div class="form-group col-md-4">
+		      <label >Hotel Name</label>
+		      <input th:field="${umrah.umrahPackageHotelName}" type="text" class="form-control" placeholder="Enter Country for which this is...">
+		    </div>
+		    <div class="form-group col-md-4">
+		      <label >Hotel City</label>
+		      <select th:field="${umrah.umrahPackageHotelCity}" class="form-control form-control-sm">
+		      	<option value="umrahPackageHotelCity">Select Hotel City</option>
+  				<option value="MAKKAH">MAKKAH</option>
+  				<option value="MEDINA">MEDINA</option>
+			</select>
+		    </div>
+		  </div>
+		  <div class="form-group col-md-4">
+		    <label >Hotel Distance</label>
+		    <input th:field="${umrah.umrahPackageHotelDistance}" type="number" class="form-control" placeholder="Please Enter the Hotel distance in meters">
+		  </div>
+		  <div class="form-group col-md-4">
+		    <label >Hotel Category</label>
+		    <select th:field="${umrah.umrahPackageHotelCategory}" class="form-control form-control-sm">
+		    	<option value="umrahPackageHotelCategory">Select Hotel Category</option>
+  				<option value="ECONOMY">Economy</option>
+  				<option value="STANDARD">Standard</option>
+  				<option value="04-STAR">04-STAR</option>
+  				<option value="05-STAR">05-STAR</option>
+			</select>
+		  </div>
+		  <div class="form-group col-md-4">
+		    <label >Hotel Room Type</label>
+		    <select th:field="${umrah.umrahPackageHotelRoomType}" class="form-control form-control-sm">
+		    	<option value="umrahPackageHotelRoomType">Select Hotel Room Category</option>
+  				<option value="SHARING">Sharing</option>
+  				<option value="QUAD">Quad</option>
+  				<option value="TRIPLE">Triple</option>
+  				<option value="DOUBLE">Double</option>
+			</select>
+		  </div>
+		  <div class="form-group col-md-4">
+		  	<input type="submit"class="btn btn-success" value="Save Details" >
+		  </div>
+		</form>
+	</div>
+	<!--Form Area End-->
+	
+	<!--Footer-->
+	<div th:replace="fragments.html :: footer"></div>
+	<!--Footer End-->
+	
+	<!-- Scripts -->
+	<span th:replace="fragments.html :: scripts"></span>
+    <!-- Scripts -->
+</body>
+</html>
